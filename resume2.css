@@ -1,0 +1,51 @@
+nav li {
+    text-align: center;
+    display: block;
+    float: left;
+    padding: 1% 5%;
+}
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+nav ul {
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: black;
+
+}
+
+body{
+    background-color: whitesmoke;
+
+}
+
+p{
+    color: darkgrey;
+}
+
+body li{
+    color: darkslategray;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+
+}
+
+section{
+    padding: 50px;
+    margin: 10px;
+}
+
+#gridski{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    margin-top: 50px;
+}
